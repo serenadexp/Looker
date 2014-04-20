@@ -1,0 +1,7 @@
+This contains my Looker application Code. This was built using the Flash.
+
+To find the main ActionScript files enter the folder Looker->src->Main.as
+
+To see the other ActionScript files associated with the Main ActionScript file Looker->src->com->andreallen
+
+						
